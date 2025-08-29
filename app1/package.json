@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yvesSiewe/Order-summaryCard",
+  "homepage": "https://yvesSiewe.github.io/Order-summaryCard/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
